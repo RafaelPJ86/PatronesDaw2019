@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Documentación/informacion de mcv.docx</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Desktop/Daw/Entornos de programación/tema12/informacion de mcv.docx</location>
+		</link>
+		<link>
+			<name>Documentación/trabajo fachada.pptx</name>
+			<type>1</type>
+			<location>C:/Users/usuario/Desktop/Daw/Entornos de programación/tema12/trabajo fachada.pptx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
